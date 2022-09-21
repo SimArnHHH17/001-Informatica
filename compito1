@@ -1,0 +1,23 @@
+#include <stdio.h> printf, scanf
+
+    int main()
+{
+
+    //scrivere a schermo un messaggio
+    
+    printf("inserisci il tuo voto");
+    
+    //lettura da tastiera di un intero in base 10
+    
+    scanf("%d",&);
+    
+    //stampiamo a schermo un messaggio contenente
+    //il valore del numero inserito da tastiera
+    
+    printf("hai inserito il numero %d",a);
+    
+    //terminiamo il programma
+    
+    return 0 ;
+    
+}
